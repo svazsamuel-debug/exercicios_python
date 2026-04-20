@@ -3,7 +3,7 @@
 ## Conteúdo
 - Ordenação sem uso de sort()
 - Validação de parênteses
-- Remoção de duplicados
+- Análise de números (maior, menor, média, pares e ímpares)
 - Sistema simples de cadastro
 
 ## Objetivo
