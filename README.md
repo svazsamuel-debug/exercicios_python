@@ -5,6 +5,7 @@
 - Validação de parênteses
 - Análise de números (maior, menor, média, pares e ímpares)
 - Sistema simples de cadastro
+- Criação e análise de Matrizes 3x3
 
 ## Objetivo
 Praticar manipulação de listas e lógica de programação
