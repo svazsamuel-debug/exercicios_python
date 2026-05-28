@@ -2,7 +2,7 @@
 
 ## Conteúdo
 - Análise de números cadastrados
-- Criador de MAtrizes 3x3
+- Criador de Matrizes 3x3
 - Ordenação de números sem a utilização do sort()
 - Validação de equações pelo uso de parênteses
 
