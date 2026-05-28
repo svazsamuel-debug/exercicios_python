@@ -4,7 +4,7 @@ Repositório criado para documentar meu desenvolvimento nos estudos de Python (E
 ## Objetivo
 Praticar lógica de programação, estrutura de dados e resolução de problemas por meio de exercícios e pequenos projetos
 
-##Conteúdos estudados
+## Conteúdos estudados
 - Estruturas Condicionais
 - Estruturas de Repetição
 - Funções
@@ -13,10 +13,10 @@ Praticar lógica de programação, estrutura de dados e resolução de problemas
 - Dicionários
 - Manipulação de Dados
 
-##Tecnologias
+## Tecnologias
 - Python 3.19
 - Pycharm
 - Git & Github
 
-##Nota
+## Nota
 - Esse repositório é atualizado a medida em que realizo mais exercícios e projetos
