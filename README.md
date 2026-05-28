@@ -1,17 +1,22 @@
 # Exercícios com Listas em Python
-
-## Conteúdo
-- Ordenação sem uso de sort()
-- Validação de parênteses
-- Análise de números (maior, menor, média, pares e ímpares)
-- Sistema simples de cadastro
-- Criação e análise de Matrizes 3x3
+Repositório criado para documentar meu desenvolvimento nos estudos de Python (Exercícios e Desafios)
 
 ## Objetivo
-Praticar manipulação de listas e lógica de programação
+Praticar lógica de programação, estrutura de dados e resolução de problemas por meio de exercícios e pequenos projetos
 
-## Habilidades para desenvolver
-- Estruturas de repetição
-- Condições
-- Manipulação de listas
-- Lógica de programação
+##Conteúdos estudados
+- Estruturas Condicionais
+- Estruturas de Repetição
+- Funções
+- Listas
+- Tuplas
+- Dicionários
+- Manipulação de Dados
+
+##Tecnologias
+- Python 3.19
+- Pycharm
+- Git & Github
+
+##Nota
+- Esse repositório é atualizado a medida em que realizo mais exercícios e projetos
