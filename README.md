@@ -1,4 +1,4 @@
-# Exercícios com Listas em Python
+# Exercícios em Python
 Repositório criado para documentar meu desenvolvimento nos estudos de Python (Exercícios e Desafios)
 
 ## Objetivo
