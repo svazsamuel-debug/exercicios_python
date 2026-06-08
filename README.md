@@ -1,4 +1,4 @@
-# Exercícios em Python
+# Exercícios em Python - Curso em Vídeo - Pesquisas
 Repositório criado para documentar meu desenvolvimento nos estudos de Python (Exercícios e Desafios)
 
 ## Objetivo
