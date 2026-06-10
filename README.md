@@ -13,6 +13,7 @@ Praticar lógica de programação, estrutura de dados e resolução de problemas
 - Tuplas
 - Dicionários
 - Manipulação de Dados
+- Modularização e Pacotes
 
 ## Tecnologias
 - Python 3.19
